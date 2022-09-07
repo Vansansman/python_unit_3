@@ -6,3 +6,6 @@ def test_1():
 
 def test_2():
     asset 4 >= 2
+def tes_one():
+    asser 10>15
+
