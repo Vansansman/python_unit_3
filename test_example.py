@@ -4,3 +4,6 @@ def test_0():
 def test_1():
     assert 3 >= 2
 
+def tes_one():
+    asser 10>15
+
